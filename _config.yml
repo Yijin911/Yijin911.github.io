@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yijin Ni / Personal Homepage"
+title                    : "Yijin Ni's / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yijin Ni"
 description              : &description "G4 PhD student in Statistics from Georgia Tech."
