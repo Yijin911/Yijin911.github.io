@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Time Series Analysis"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Georgia Institute of Technology, Statistics"
+date: 2023-01-10
+location: "Atlanta, US"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
