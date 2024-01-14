@@ -7,4 +7,3 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/1903.00037.pdf'
 citation: 'Yijin Ni, Chuanping Yu, Andy Ko, Xiaoming Huo. (2010). &quot;Distance-Based Independence Screening for Canonical Analysis.&quot; <i>Arxiv 1</i>.'
 ---
-[Download paper here](https://arxiv.org/pdf/1903.00037.pdf)
