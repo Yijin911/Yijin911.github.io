@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate student mentor"
 collection: teaching
-type: "Undergraduate course"
+type: "Mentorship"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Summer Undergraduate Research in Engineering/Sciences (SURE)"
+date: 2022-05-22
+location: "Atlanta, US"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
