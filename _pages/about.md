@@ -17,7 +17,7 @@ My research interests include:
 > Kernel methods;
 > Generative models;
 > Dimension reduction;
-> Fairness representation learning;
+> Fairness representation learning; and
 > Preference learning for LLM fine-tuning.
 
 [Email](mailto:yni64@gatech.edu) • [CV](/files/Ni_Yijin_Resume.pdf)
