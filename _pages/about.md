@@ -14,4 +14,4 @@ Prior to Georgia Tech, I received my Bachelor of Science degree in Statistics fr
 
 My research interests include: (i) Theoretical machine learning; (ii) Kernel methods; (iii) Generative models; (iv) Dimension reduction; (v) Fairness representation learning; and (vi) Preference learning.
 
-[Email](mailto:yni64@gatech.edu)
+[Email](mailto:yni64@gatech.edu) | [CV](files/Ni_Yijin_Resume.pdf)
