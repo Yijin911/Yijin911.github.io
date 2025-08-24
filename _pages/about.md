@@ -12,6 +12,12 @@ I am a Ph.D. student in the statistics track of the Industrial and Systems Engin
 
 Prior to Georgia Tech, I received my Bachelor of Science degree in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/), advised by Prof. [Canhong Wen](https://bs.ustc.edu.cn/english/profile-352.html).
 
-My research interests include: (i) Theoretical machine learning; (ii) Kernel methods; (iii) Generative models; (iv) Dimension reduction; (v) Fairness representation learning; and (vi) Preference learning.
+My research interests include: 
+> Theoretical machine learning;
+> Kernel methods;
+> Generative models;
+> Dimension reduction;
+> Fairness representation learning;
+> Preference learning for LLM fine-tuning.
 
 [Email](mailto:yni64@gatech.edu) • [CV](/files/Ni_Yijin_Resume.pdf)
