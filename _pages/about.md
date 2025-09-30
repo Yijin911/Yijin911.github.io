@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: Yijin Ni (倪亦瑾)
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>yni64@gatech.edu</p>
+    <p><a href='#'>Email</a>. yni64 AT gatech.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,7 +20,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new post items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -29,4 +29,9 @@ I am a Ph.D. candidate under the Statistics track of the [Industrial and Systems
 
 Prior to Georgia Tech, I received my Bachelor’s degree in Statistics in 2020 from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Canhong Wen](https://scholar.google.com/citations?user=9oZ58-0AAAAJ&hl=en).
 
-I am broadly in the utilization of statistical tools in the exploration of methodologies. Specifically, my research topics include: concentration inequality, kernel methods, dimension reduction, variable selection, fairness representation learning, and preference learning for LLM fine-tuning.
+I am broadly in the utilization of statistical tools in the exploration of methodologies. Specifically, my research topics include: 
+- **Nonlinear uniform concentration inequality**, regarding theoretical boundaries for optimization problems;
+- **Kernel-based statistics**, including *Maximum Mean Discrepancy* (MMD), *Hilbert-Schmidt Independence Criterion* (HSIC), *Energy Distance* (ED), and *distance Covariance* (dCov);
+- **Dimension reduction and variable selection**, serving as a preprocessing step for high dimensional statistics;
+- **Fairness representation learning**, exploring available metrics to achieve fairness for a wide range of downstream tasks;
+- **Preference learning for LLM fine-tuning**, including *Direct Prefernece Optimization* (DPO) and *Reinforcement Learning from Human Feedback* (RLHF).
