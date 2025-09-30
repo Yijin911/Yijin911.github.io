@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yijin Ni (倪亦瑾)
+title: about
 permalink: /
 subtitle:
 
