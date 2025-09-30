@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-yijin-ni-倪亦瑾",
+    title: "Yijin Ni (倪亦瑾)",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
