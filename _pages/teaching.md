@@ -16,5 +16,5 @@ Fall 2023
 Spring 2023
 
 ### Mentor
-**Summer Undergraduate Research Experience (SURE) Program**  
+**[Summer Undergraduate Research Experience (SURE) Program](https://college.emory.edu/undergraduate-research/summer/)**  
 Summer 2022
