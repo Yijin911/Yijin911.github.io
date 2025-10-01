@@ -45,15 +45,15 @@
     },
     {
       "title": "Annual outstanding Student Scholarship (2017-2020)",
-      "date": "2017,
+      "date": "2017",
       "awarder": "University of Science and Technology of China"
     }
   ],
   "publications": [
     {
       "name": "Abductive Preference Learning",
-      "publisher": "arXiv"
-      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."，
+      "publisher": "arXiv",
+      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts.",
       "releaseDate": "TBD"
     },
     {
