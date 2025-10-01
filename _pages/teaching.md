@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught or assisted
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Instructor
+**ISYE-6501: Intro to Analytics Modeling**  
+Fall 2023
 
-Organize your courses by years, topics, or universities, however you like!
+### Graduate Teaching Assistant
+**ISYE-6402-A: Time Series Analysis**  
+Spring 2023
+
+### Mentor
+**Summer Undergraduate Research Experience (SURE) Program**  
+Summer 2022
