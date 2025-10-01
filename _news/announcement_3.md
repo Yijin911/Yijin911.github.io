@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending the Georgia Statistics Day at the University of Georgia!
+Poster Presentation on the Georgia Statistics Day at the University of Georgia.
