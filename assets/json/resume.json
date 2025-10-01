@@ -53,8 +53,8 @@
     {
       "name": "Abductive Preference Learning",
       "publisher": "arXiv",
-      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts.",
-      "releaseDate": "TBD"
+      "releaseDate": "TBD",
+      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."
     },
     {
       "name": "Kernel-based Equalized Odds: A Quantification of Accuracy Fairness Trade-off in Fair Representation Learning",
