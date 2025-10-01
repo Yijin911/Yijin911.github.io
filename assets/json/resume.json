@@ -44,15 +44,17 @@
       "awarder": "Georgia Institute of Technology"
     },
     {
-      "title": "Annual outstanding Student Scholarship",
-      "date": "2017 - 2020",
+      "title": "Annual outstanding Student Scholarship (2017-2020)",
+      "date": "2017,
       "awarder": "University of Science and Technology of China"
     }
   ],
   "publications": [
     {
       "name": "Abductive Preference Learning",
-      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."
+      "publisher": "arXiv"
+      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."，
+      "releaseDate": "TBD"
     },
     {
       "name": "Kernel-based Equalized Odds: A Quantification of Accuracy Fairness Trade-off in Fair Representation Learning",
