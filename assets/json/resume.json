@@ -31,12 +31,12 @@
     {
       "title": "Runner Up",
       "date": "2025-08-26",
-      "awarder": "2025 Alice and John Jarvis Ph.D. Student Paper Competition"
+      "awarder": "Alice and John Jarvis, Ph.D. Student Paper Competition"
     },
     {
-      "title": "Mentoring service award for SURE program",
+      "title": "Mentoring Service Award",
       "date": "2022-08",
-      "awarder": "Georgia Institute of Technology"
+      "awarder": "SURE program, Georgia Institute of Technology"
     },
     {
       "title": "Stewart Fellowship",
@@ -45,8 +45,7 @@
     },
     {
       "title": "Annual outstanding Student Scholarship",
-      "startDate": "2017",
-      "endDate": "2020",
+      "date": "2017-2020",
       "awarder": "University of Science and Technology of China"
     }
   ],
@@ -75,6 +74,12 @@
       "releaseDate": "2025-01-27",
       "url": "https://www.tandfonline.com/doi/full/10.1080/10485252.2025.2451036",
       "summary": "This work studies a stepwise dimension reduction method, built without the elliptical distribution assumption for widely studied Sufficient Dimension Reduction (Method), detecting nonlinear subspaces for both response and predictors."
+    },
+    {
+      "name": "Simultaneous Dimension Reduction and Variable Selection for Multinomial Logistic Regression",
+      "publisher": "INFORMS Journal on Computing",
+      "releaseDate": "2023-05-09",
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.0132"
     }
   ]
 }
