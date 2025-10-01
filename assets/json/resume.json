@@ -1,5 +1,5 @@
 {
-    "work": [
+  "work": [
     {
       "name": "Orby AI - A Uniphore Company",
       "position": "Research Intern",
@@ -31,33 +31,33 @@
     {
       "title": "Runner Up",
       "date": "2025-08-26",
-      "awarder": "2025 Alice and John Jarvis Ph.D. Student Paper Competition",
+      "awarder": "2025 Alice and John Jarvis Ph.D. Student Paper Competition"
     },
     {
       "title": "Mentoring service award for SURE program",
       "date": "2022-08",
-      "awarder": "Georgia Institute of Technology",
+      "awarder": "Georgia Institute of Technology"
     },
     {
       "title": "Stewart Fellowship",
       "date": "2021-08",
-      "awarder": "Georgia Institute of Technology",
+      "awarder": "Georgia Institute of Technology"
     },
     {
       "title": "Annual outstanding Student Scholarship",
       "startDate": "2017",
       "endDate": "2020",
-      "awarder": "University of Science and Technology of China",
-    },
+      "awarder": "University of Science and Technology of China"
+    }
   ],
   "publications": [
     {
       "name": "Abductive Preference Learning",
-      "summary": "It proposes a solution for the *over-confidence* phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."
+      "summary": "It proposes a solution for the over-confidence phenomenon for SOTA LLM models, serving as a fine-tuning method that detects the modification of keywords in text prompts or items in image prompts."
     },
     {
       "name": "Kernel-based Equalized Odds: A Quantification of Accuracy Fairness Trade-off in Fair Representation Learning",
-      "publisher": "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NIPS 2025)",
+      "publisher": "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)",
       "url": "https://arxiv.org/pdf/2508.15084",
       "releaseDate": "TBD",
       "summary": "It provides a quantification for the trade-offs between three categories of fairness notions, including independence, separation, and calibration, delivering an equalized-based fairness metric that helps achieve fairness for a class of downstream tasks."
@@ -80,6 +80,7 @@
   "references": [
     {
       "name": "Peng Qi",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-laptop"
     }
   ]
+}
