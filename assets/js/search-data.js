@@ -402,11 +402,9 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-work-kernel-based-equalized-odds-was-accepted-by-2025-neurips",
-          title: 'Our work *Kernel-based Equalized Odds* was accepted by 2025 NeurIPs!',
+          title: 'Our work Kernel-based Equalized Odds was accepted by 2025 NeurIPs!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-poster-presentation-for-kernel-based-equalized-odds-a-quantification-of-accuracy-fairness-trade-off-in-fair-representation-learning-on-summit-on-responsible-computing-ai-and-society",
+          section: "News",},{id: "news-poster-presentation-for-kernel-based-equalized-odds-a-quantification-of-accuracy-fairness-trade-off-in-fair-representation-learning-on-summit-on-responsible-computing-ai-and-society",
           title: 'Poster presentation for Kernel-based Equalized Odds: A Quantification of Accuracy-Fairness Trade-off in Fair...',
           description: "",
           section: "News",},{id: "projects-project-1",
