@@ -218,6 +218,16 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      search_exclude: true
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      search_exclude: true
 
 sass:
   style: compressed
